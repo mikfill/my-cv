@@ -70,6 +70,24 @@ body {
     line-height: 27px;  
 }
 
+.my-projects h4 {
+    padding: 0 10px;
+    margin: 0;
+}
+
+.my-projects div a {
+    color: black;
+    font-weight: normal;
+    font-size: 16px;
+    text-decoration: underline;
+    line-height: 24px;
+}
+
+.my-projects div a:hover {
+    text-decoration: none;
+    color: #FB6D3A;
+}
+
 .my-work-experience div h4 {
     font-size: 16px;
     font-weight: 700;
