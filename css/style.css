@@ -1,5 +1,6 @@
 body {
     display: flex;
+    margin: 0;
     justify-content: space-around;
     font-family: 'Montserrat', sans-serif;
     background-color: #F5F7FA;
@@ -10,8 +11,8 @@ body {
     display: flex;
     flex-direction: row-reverse;
     background-color: #fff;
-    border: black 1px solid;
-    border-radius: 10px;
+    /* border: black 1px solid;
+    border-radius: 10px; */
 }
 
 @media only screen and (max-width: 630px) {
@@ -223,7 +224,7 @@ body {
 .sidebar {
     height: auto;
     padding: 0px;
-    border-radius: 10px 0 10px 10px;
+    /* border-radius: 10px 0 10px 10px; */
     font-style: normal;
     font-weight: normal;
     background-color: lightslategray;
